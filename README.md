@@ -13,9 +13,8 @@ Este projeto analisa o desempenho de 4 lojas para ajudar no processo de tomada d
 ## 📁 Estrutura do Projeto
 
 📦 projeto-lojas
-├── loja_analise.ipynb # Notebook com a análise completa
+├── AluraStoreBR.ipynb # Notebook com a análise completa
 ├── README.md # Arquivo explicativo do projeto
-└── /img # (Opcional) Gráficos e visualizações salvas
 
 
 ## 📈 Exemplos de Gráficos e Insights
